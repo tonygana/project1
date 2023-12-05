@@ -1,0 +1,480 @@
+Restaurant_Types,Name,Alias,ID,Rating,Review Count,Area,Price,Restaurant Type
+0,Chick-fil-A,chick-fil-a-los-angeles-14,9da1jwrQKNdt3zJGO_7AXw,3.5,922,Los Angeles,$,Chick-fil-A
+1,Chick-fil-A,chick-fil-a-los-angeles-12,H1jfm47vEM5iMQx-wSZa9w,3.5,574,Los Angeles,$$,Chick-fil-A
+2,Chick-fil-A,chick-fil-a-los-angeles,Fs7lKMANuifCyDjF99opRA,3.5,533,Los Angeles,$$,Chick-fil-A
+3,Chick-fil-A,chick-fil-a-los-angeles-28,5JuGBCftbVW8qL6B_nCpLA,3.0,158,Los Angeles,$$,Chick-fil-A
+4,Chick-fil-A,chick-fil-a-los-angeles-24,O-uYhHRebCCAYLlMKCZU7w,2.5,204,Los Angeles,$,Chick-fil-A
+5,Chick-fil-A,chick-fil-a-los-angeles-8,TSRgZGwH4FeIt0aYaXImOw,3.5,429,Los Angeles,$$,Chick-fil-A
+6,Chick-fil-A,chick-fil-a-los-angeles-23,903X7MzJqEW6vKkEF6IDLw,3.0,287,Los Angeles,$$,Chick-fil-A
+7,Chick-fil-A,chick-fil-a-pasadena-13,NJuZK4tAiCKySKivfD66CQ,4.0,1019,Los Angeles,$,Chick-fil-A
+8,Chick-fil-A,chick-fil-a-burbank-5,O45bTrgVi9pLRtAf2RsrMQ,3.0,403,Los Angeles,$$,Chick-fil-A
+9,Chick-fil-A,chick-fil-a-santa-clarita-2,Ck-TQfvD5dvLnpnILg7BeQ,3.5,571,Los Angeles,$$,Chick-fil-A
+10,Chick-fil-A,chick-fil-a-northridge,RsQIUUAMM5xNeHSP_M0VrQ,4.0,782,Los Angeles,$$,Chick-fil-A
+11,Chick-fil-A,chick-fil-a-santa-monica,KsEHDDYKgEvAg_wAFf92rQ,2.5,184,Los Angeles,$,Chick-fil-A
+12,Chick-fil-A,chick-fil-a-woodland-hills-2,G28uWlM-w-YamBefSU7p7Q,2.5,128,Los Angeles,,Chick-fil-A
+13,Chick-fil-A,chick-fil-a-torrance-4,5_oKEBNoAKeO-sfB0Gzq4A,4.0,399,Los Angeles,$,Chick-fil-A
+14,Chick-fil-A,chick-fil-a-torrance-2,P_Nb5j5hOriYMDfTa8h66w,3.5,700,Los Angeles,$$,Chick-fil-A
+15,Chick-fil-A,chick-fil-a-cerritos,Xg-CjjT0KJ8Y_qjhru8mng,4.0,491,Los Angeles,$,Chick-fil-A
+16,Chick-fil-A,chick-fil-a-carson-2,LwsJea9Aui9DYj2R4TgxEQ,2.5,87,Los Angeles,$$,Chick-fil-A
+17,Chick-fil-A,chick-fil-a-santa-fe-springs,fYTRhWUqLAMjL6lIaAeZJw,3.0,2,Los Angeles,,Chick-fil-A
+18,Chick-fil-A,chick-fil-a-el-segundo,LDJHfRo48QlhnvkhIQtCIA,2.5,162,Los Angeles,$,Chick-fil-A
+19,Chick-fil-A,chick-fil-a-glendale-4,CCLcLfiE-6gYWg2shWO2Xw,3.0,72,Los Angeles,$$,Chick-fil-A
+20,Chick Fil A,chick-fil-a-los-angeles-34,Gji7XDe7tp0AbyCCCo2OIA,2.5,122,Los Angeles,$,Chick-fil-A
+21,Chick-fil-A,chick-fil-a-venice,E-dOE0xIJatyZqTcih6Asw,2.5,245,Los Angeles,$,Chick-fil-A
+22,Chick-fil-A,chick-fil-a-downey,K3PblSqOvUSm8YXE3AoCPA,3.5,575,Los Angeles,$,Chick-fil-A
+23,Chick-fil-A,chick-fil-a-monterey-park-3,6L4sFW2DdDG_MILrSaXaeQ,3.0,460,Los Angeles,$,Chick-fil-A
+24,Chick-fil-A,chick-fil-a-monrovia-2,lxbugg11OIVBQEJ8GzuqVQ,2.5,61,Los Angeles,$$,Chick-fil-A
+25,Chick-fil-A,chick-fil-a-arcadia,-87i6wOXzj5ZszfobQu7tw,3.0,121,Los Angeles,$,Chick-fil-A
+26,Chick-fil-A,chick-fil-a-northridge-3,g7Mk_pgxsBevtXw5peWclA,3.0,404,Los Angeles,$$,Chick-fil-A
+27,Chick-fil-A,chick-fil-a-lakewood,8beSQKMLFFG4bbwHF0A1yw,3.5,338,Los Angeles,$$,Chick-fil-A
+28,Chick-fil-A,chick-fil-a-encino,DbJu6bDE0tdhG5GJ6pMxeQ,2.0,279,Los Angeles,$$,Chick-fil-A
+29,Chick-fil-A,chick-fil-a-norwalk-2,W8JpaG2uHKtZBsVbVZIm2g,3.0,255,Los Angeles,$$,Chick-fil-A
+30,Chick-fil-A,chick-fil-a-gardena,7wy4ONmT7qqI9ZPqTfIA8Q,2.5,194,Los Angeles,$$,Chick-fil-A
+31,Chick-fil-A,chick-fil-a-torrance-12,wmuz5JOdXv3VgJ3n5UKg0w,2.5,165,Los Angeles,$,Chick-fil-A
+32,Chick-fil-A,chick-fil-a-redondo-beach-4,T6qmAYLL_xhQQMLSdigDaA,2.5,150,Los Angeles,$$,Chick-fil-A
+33,Chick-fil-A,chick-fil-a-pasadena-14,NCYmZDO-T5k2oFM_NbEEkA,3.5,32,Los Angeles,$$,Chick-fil-A
+34,Chick-fil-A,chick-fil-a-north-hollywood-2,eC1m08mGdumvEGujAdFg1A,2.0,27,Los Angeles,,Chick-fil-A
+35,Chick-fil-A,chick-fil-a-pico-rivera-pico-rivera-3,AYIVoKkr6hagHUBKHkJHug,2.5,180,Los Angeles,$$,Chick-fil-A
+36,Chick-fil-A,chick-fil-a-los-angeles-15,Udoof7-g5jxhIyRyTnfaOw,2.5,57,Los Angeles,$,Chick-fil-A
+37,Chick-fil-A,chick-fil-a-torrance-10,2pqVVnxtuWag3z1KsewkPQ,3.0,60,Los Angeles,$$,Chick-fil-A
+38,Chick-fil-A,chick-fil-a-downey-17,q_eQMfQWTtNeXTMi1L4DBg,2.0,98,Los Angeles,$,Chick-fil-A
+39,Chick-fil-A,chick-fil-a-long-beach-5,sJ2MiI-Wr6clLuMZmbaOYw,2.5,181,Los Angeles,,Chick-fil-A
+40,Chick-fil-A,chick-fil-a-westminster-5,UgMxuIEzFxFFNzIYGypq1Q,3.5,567,Los Angeles,$,Chick-fil-A
+41,Chick-fil-A,chick-fil-a-long-beach-2,hFyNJjLoFtWtSoJc_6NAgg,3.0,331,Los Angeles,$,Chick-fil-A
+42,Chick-fil-A,chick-fil-a-west-hills,ln7qviCnCc-M_ZAWpS41qg,2.5,356,Los Angeles,$,Chick-fil-A
+43,Chick-fil-A,chick-fil-a-houston-29,5aBdBzfECMoLw0sm_cstTg,3.0,174,Houston,$,Chick-fil-A
+44,Chick-fil-A,chick-fil-a-houston-105,v5aL_7GMoMqB0ojyqtEqZA,3.0,246,Houston,$,Chick-fil-A
+45,Chick-fil-A,chick-fil-a-houston-23,7mJAfKl_4nhbBU-muZkk9w,3.0,175,Houston,$,Chick-fil-A
+46,Chick-fil-A,chick-fil-a-houston-51,VWKZ8xuH2Yj_W92S55XsVA,3.0,123,Houston,$,Chick-fil-A
+47,Chick-fil-A,chick-fil-a-houston-5,d62HM9CHDFdV9-b9TQvlvg,3.5,141,Houston,$,Chick-fil-A
+48,Chick-fil-A,chick-fil-a-houston-82,UqIno7nFwPJwKe7zyngNQw,2.5,128,Houston,$,Chick-fil-A
+49,Chick-fil-A,chick-fil-a-houston-8,_WpALkKKNxfsBolMuqLT5Q,2.5,194,Houston,$,Chick-fil-A
+50,Chick-fil-A,chick-fil-a-houston-56,r6Su47CkkWGWVJsKrNxYCQ,3.5,49,Houston,$,Chick-fil-A
+51,Chick-fil-A,chick-fil-a-houston-37,orXZMTxjMBOqwcvoXdhelQ,3.0,147,Houston,$,Chick-fil-A
+52,Chick-fil-A,chick-fil-a-houston-14,URDecxwBtKT1pMBoyMof5g,3.5,100,Houston,$,Chick-fil-A
+53,Chick-fil-A,chick-fil-a-houston-25,QIge9PiLzY9wKUqDJDV6pA,2.5,115,Houston,$,Chick-fil-A
+54,Chick-fil-A,chick-fil-a-houston-106,djEdQ_Dz_6-ZeLF9QbHYWQ,3.0,14,Houston,,Chick-fil-A
+55,Chick-fil-A,chick-fil-a-houston-111,rs14L0XbPYgrehy1kt-MHA,2.0,12,Houston,,Chick-fil-A
+56,Chick-fil-A,chick-fil-a-houston-13,WKWDr22FIfoEBLca9V_ajA,3.0,29,Houston,$,Chick-fil-A
+57,Chick-fil-A,chick-fil-a-houston-96,r10ug2qRorxlu39m9jfbsg,3.0,107,Houston,$,Chick-fil-A
+58,Chick-fil-A,chick-fil-a-houston-101,S7tDE62W51VgrbKsXvLMYw,2.5,93,Houston,$,Chick-fil-A
+59,Chick-fil-A,chick-fil-a-houston-61,pLUzZQxCw6VxyoEBGb4NsA,2.5,98,Houston,$,Chick-fil-A
+60,Chick-fil-A,chick-fil-a-houston-20,sNa81DgyapF81bI04huP7g,2.0,81,Houston,$,Chick-fil-A
+61,Chick-fil-A,chick-fil-a-houston-108,YPBad_nlZ_Tbs2a5I_R3dg,1.0,12,Houston,,Chick-fil-A
+62,Chick-fil-A,chick-fil-a-houston-68,8LFToqVyXAjk0tJqy5nttw,2.5,93,Houston,$,Chick-fil-A
+63,Chick-fil-A,chick-fil-a-pearland,vy9K3jpnJj7r6W0uGlfIMw,3.5,102,Houston,$,Chick-fil-A
+64,Chick-fil-A,chick-fil-a-houston-72,ndquR-uZrIIQzmE_j-osQA,2.5,106,Houston,$,Chick-fil-A
+65,Chick-fil-A,chick-fil-a-houston-10,zxJhuUzPXcwDlBIuli3mOQ,3.0,98,Houston,$,Chick-fil-A
+66,Chick-fil-A,chick-fil-a-houston-34,1FCNgygOFTDYtS48UmwfFQ,3.0,73,Houston,$,Chick-fil-A
+67,Chick-fil-A,chick-fil-a-houston-95,_OHE_iOs0ujGGwLscITVHw,2.0,52,Houston,$,Chick-fil-A
+68,Chick-fil-A,chick-fil-a-houston,FQalVDaF5SzwA03EonSRTw,3.0,131,Houston,$,Chick-fil-A
+69,Chick-fil-A,chick-fil-a-houston-60,KDK_tHL0hzgbVnaS4AY4Nw,4.0,35,Houston,$,Chick-fil-A
+70,Chick-fil-A,chick-fil-a-houston-3,bRAXCmvlSx2dHqIWt_GptQ,2.5,121,Houston,$,Chick-fil-A
+71,Chick-fil-A,chick-fil-a-houston-41,HNd7pQWqk-ruruqG9307iA,3.5,86,Houston,$,Chick-fil-A
+72,Chick-fil-A,chick-fil-a-pearland-4,ghpf9Kq4k-v5ALdCrjbjow,2.0,84,Houston,$,Chick-fil-A
+73,Chick-fil-A,chick-fil-a-houston-44,hlV-yKQVQDm_WvGKRk6tQQ,3.0,94,Houston,$,Chick-fil-A
+74,Chick-fil-A,chick-fil-a-houston-77,_28qUFlhLyZmu-HSyxWWwQ,3.5,51,Houston,$,Chick-fil-A
+75,Chick-fil-A,chick-fil-a-houston-88,68tAoTS67FpEhZ0UBD0nGQ,2.0,53,Houston,$,Chick-fil-A
+76,Chick-fil-A,chick-fil-a-houston-47,8bUgqtSaFrxlLyiy8kQTEg,3.0,124,Houston,$,Chick-fil-A
+77,Chick-fil-A,chick-fil-a-houston-97,N5B8kYKlStVV9MG__IE_wQ,2.5,81,Houston,$,Chick-fil-A
+78,Chick-fil-A,chick-fil-a-houston-71,pn_pVUcal94LwOAfJx65KA,3.5,48,Houston,$,Chick-fil-A
+79,Chick-fil-A,chick-fil-a-houston-81,fMDIDJngPe_NCHevNdXWag,3.5,32,Houston,$,Chick-fil-A
+80,Chick-fil-A,chick-fil-a-houston-67,s9JTh1Q2mcyaijpGq1w6YA,3.0,91,Houston,$,Chick-fil-A
+81,Chick-fil-A,chick-fil-a-houston-18,zVJDiLRMaJfc8xPYFA4anA,2.5,109,Houston,$,Chick-fil-A
+82,Chick-fil-A,chick-fil-a-houston-21,3HgSz_7F8BI1IDAfh2XvPA,2.5,97,Houston,$,Chick-fil-A
+83,Chick-fil-A,chick-fil-a-sugar-land,IFB3cDtTZ4xYl3gsd5Tx5Q,2.5,164,Houston,$,Chick-fil-A
+84,Chick-fil-A,chick-fil-a-houston-109,rEAA1IWMfpveEgbE-zLldg,1.0,10,Houston,,Chick-fil-A
+85,Chick-fil-A,chick-fil-a-houston-58,styCc7vqrQ0hyV9k32WkVw,3.0,63,Houston,$,Chick-fil-A
+86,Chick-fil-A,chick-fil-a-cypress-9,UlTwrEgrKWVh1akFRPNhdg,3.5,120,Houston,$,Chick-fil-A
+87,Chick-fil-A,chick-fil-a-missouri-city-2,mhPgIpF9FOXwatezc8KOYQ,2.0,85,Houston,$,Chick-fil-A
+88,Chick-fil-A,chick-fil-a-stafford-2,gkXDblL2a5dcu-wun0s7QA,2.5,186,Houston,$$,Chick-fil-A
+89,Chick-fil-A,chick-fil-a-richmond-39,St0HTjS5MwmXJnUGu5Gw8Q,2.0,64,Houston,$,Chick-fil-A
+90,Chick-fil-A,chick-fil-a-katy-10,j5YuyrCHh8jAiaUeVmXR7Q,3.5,99,Houston,$,Chick-fil-A
+91,Chick-fil-A,chick-fil-a-pearland-8,qrc4diJndTfV4JD3z29xlg,2.5,59,Houston,$,Chick-fil-A
+92,Chick-fil-A,chick-fil-a-humble-4,35AAV-9ORpajK0zPrTBvkg,3.5,84,Houston,$,Chick-fil-A
+93,Raising Canes Chicken Fingers,raising-canes-chicken-fingers-burbank-2,iJMVmEIKxTbGLaW55KI6dA,2.0,446,Los Angeles,$$,Raising Cane
+94,Raising Cane’s,raising-cane-s-northridge,DQPEabbAG9hALvmj8hkaYw,3.0,188,Los Angeles,$$,Raising Cane
+95,Raising Cane's,raising-canes-alhambra,LW50YIc6huusQqdY_5-j6g,3.0,175,Los Angeles,$$,Raising Cane
+96,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-monterey-park,KWVqg91CfFvorh3SreQaAQ,2.5,89,Los Angeles,$,Raising Cane
+97,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-el-segundo,qjgEHMoYKf7XSAE1HtJoPA,3.0,124,Los Angeles,$$,Raising Cane
+98,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-downey,sGtuD7k1Sw_DCe4nCZ0dLg,3.5,1118,Los Angeles,$$,Raising Cane
+99,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-pico-rivera-2,wjGdHI0izTXd2u91qBnHJw,3.0,383,Los Angeles,$,Raising Cane
+100,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-south-gate,U1wnn0CL8bIs-6qFdGBBhg,2.0,26,Los Angeles,,Raising Cane
+101,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-torrance,A0XOEpf-_j4NmyAuVX9TmQ,2.5,307,Los Angeles,$$,Raising Cane
+102,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-artesia,1tq_X7NxJnz-8lYtlwPDPw,2.5,15,Los Angeles,,Raising Cane
+103,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-lakewood,GbfetKEBnIz3MIzqfcufQA,3.0,508,Los Angeles,$$,Raising Cane
+104,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-whittier,8xS3k4ipXw4PyrFVj02dqw,3.5,40,Los Angeles,$$,Raising Cane
+105,Raising Cane’s,raising-cane-s-gardena,xbrg9g2liCGtaye_f5nC6w,2.5,99,Los Angeles,$$,Raising Cane
+106,Raising Cane’s,raising-cane-s-monrovia,lYM_NYTEgUt8sWdKbdM9jQ,2.5,48,Los Angeles,,Raising Cane
+107,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-long-beach-3,pxDmvqqkTf1uSYhJIsaOXw,3.0,265,Los Angeles,$$,Raising Cane
+108,Raising Cane's,raising-canes-carson,Ey9biXm8IUp_lGZMy_N0bA,2.0,177,Los Angeles,$$,Raising Cane
+109,Raising Cane's Chicken Fingers - Baldwin Park,raising-canes-chicken-fingers-baldwin-park-baldwin-park,64escWH-TEnFjYcCkOurNw,2.5,211,Los Angeles,$$,Raising Cane
+110,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-stanton-3,TABZVlhoRakyDCLnQW0kLg,3.0,318,Los Angeles,$$,Raising Cane
+111,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-la-habra,Y9HKeXRV9PJ6IXR0WSjxaA,3.0,498,Los Angeles,$$,Raising Cane
+112,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-baldwin-park-4,w6-Nh-gIzVOkPen6nag7_Q,4.0,2,Los Angeles,,Raising Cane
+113,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-9,IXiFquTwcRkhj4Ac6z1KGw,3.5,159,Houston,$,Raising Cane
+114,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-22,CgRKW5EBAbs5jPHpzaAYDA,2.5,61,Houston,$,Raising Cane
+115,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-12,PGpXTAraauX2rf-3NGPOFA,3.5,104,Houston,$,Raising Cane
+116,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-18,9XnDhvmvgG4sVwIv8iOeaA,3.5,55,Houston,$,Raising Cane
+117,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-2,MVOy6lVpZl5jpJDsKsM_Yw,3.5,177,Houston,$,Raising Cane
+118,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-14,mUf9Tc1kpWXmvZ__UzayiA,3.5,60,Houston,$,Raising Cane
+119,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-sugar-land,8xLX7IErrVu7bfAGttu1_g,3.5,214,Houston,$,Raising Cane
+120,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-20,QR_G6ctvDYGHy2zn5wtpEA,3.5,69,Houston,$,Raising Cane
+121,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-6,Ttu9WddCjPh7jdlib889JA,3.0,132,Houston,$,Raising Cane
+122,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-4,1BwAN3AGZPafL6dDM8UtjA,3.5,97,Houston,$,Raising Cane
+123,Raising Cane's,raising-canes-houston-13,FdYfzLrxSbqbep52cUT7jw,3.0,3,Houston,,Raising Cane
+124,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-pearland-2,HCijQrL2FL08_9hk1_-Kaw,3.5,109,Houston,$,Raising Cane
+125,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-3,DqhA0Fgli0ZUwQudbMjTIA,3.5,89,Houston,$,Raising Cane
+126,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-17,PyaK2PZr0l57w7MT-uaTqg,3.0,28,Houston,$,Raising Cane
+127,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-11,OjZzb9Wwx-MtbfX6GZBNsQ,3.0,62,Houston,$,Raising Cane
+128,Raising Cane’s - Stafford,raising-cane-s-stafford-stafford,trNJ3HOHPgWPNIj4rejrSw,2.5,30,Houston,$,Raising Cane
+129,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-houston,xvvqN7409SjVYV7bZaknjw,3.0,37,Houston,,Raising Cane
+130,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-richmond-2,zbthYRQwlxjI9Zj-TW912Q,2.5,50,Houston,,Raising Cane
+131,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-15,LxVruc956hDzY0XCbGkkXg,3.0,38,Houston,$,Raising Cane
+132,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-13,mJR0SAVAvzAOeLySKcu7hA,3.0,30,Houston,$,Raising Cane
+133,Raising Cane's,raising-canes-houston-10,PVCJEg9mYQ46YyLqQkNfsw,2.5,45,Houston,,Raising Cane
+134,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-houston-3,14v1M_V1qmNYJD6tLER2IQ,3.0,22,Houston,,Raising Cane
+135,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-katy,39zpXJjVpeLXQmrAFof9lw,3.0,86,Houston,$,Raising Cane
+136,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-26,3SYyCkQnvTc-BqHu8O6pPQ,3.0,21,Houston,$$,Raising Cane
+137,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-missouri-city,HX2ROY1OvSZr7Rf9kzuXIw,2.5,70,Houston,$,Raising Cane
+138,Raising Cane’s,raising-cane-s-cypress,2LiPeVtrv6wQoMjCVPfyvg,3.0,13,Houston,,Raising Cane
+139,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-pearland,ltqoDfR06oDZ1anmS3x0vA,2.5,62,Houston,$,Raising Cane
+140,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-29,EUfvrUOYTXLBxVUOQZMykw,3.0,9,Houston,,Raising Cane
+141,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-cypress-2,N-RuICYy_htZkjZ0w3ogZg,3.0,78,Houston,$,Raising Cane
+142,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-spring-4,AyMJqFITWefqTL_TSdIZEw,3.0,37,Houston,$,Raising Cane
+143,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-pasadena,ymKEEj-9DwbeEkZk8F5rzQ,3.5,70,Houston,$,Raising Cane
+144,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-houston-31,b1kR2m31S9s9bE2uQIb2pg,1.0,2,Houston,,Raising Cane
+145,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-katy-2,GBYGcYMcsd3KlGgzkvwxrA,3.0,36,Houston,$,Raising Cane
+146,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-kingwood-2,XpyjOhCXIytdPFlLcTCRow,3.0,53,Houston,$,Raising Cane
+147,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-humble,oA3LnhuXfjzb5f877fAYlw,2.5,18,Houston,,Raising Cane
+148,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-houston-5,yAVefwcfaGE9lvXLccJdMg,3.0,5,Houston,,Raising Cane
+149,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-spring,29TN56E7Y0E9OHtyeJvcPA,3.0,53,Houston,$,Raising Cane
+150,Raising Cane’s Chicken Fingers,raising-cane-s-chicken-fingers-friendswood,00KISxwQby9SzN1ehnc2zA,2.5,27,Houston,$,Raising Cane
+151,Raising Cane's Chicken Fingers,raising-canes-chicken-fingers-tomball,4yBSx_-E759dzfwJlsS6Og,2.5,15,Houston,$,Raising Cane
+152,KFC,kfc-los-angeles-66,jwJymUz0yMi2rrJwJLMcFw,1.5,42,Los Angeles,$,KFC
+153,KFC,kfc-los-angeles-66,jwJymUz0yMi2rrJwJLMcFw,1.5,42,Los Angeles,$,KFC
+154,KFC,kfc-los-angeles-66,jwJymUz0yMi2rrJwJLMcFw,1.5,42,Los Angeles,$,KFC
+155,KFC,kfc-los-angeles-53,OLmeAWCKxNZhvpSBAhStug,2.5,122,Los Angeles,$,KFC
+156,KFC,kfc-los-angeles-53,OLmeAWCKxNZhvpSBAhStug,2.5,122,Los Angeles,$,KFC
+157,KFC,kfc-los-angeles-53,OLmeAWCKxNZhvpSBAhStug,2.5,122,Los Angeles,$,KFC
+158,KFC,kfc-los-angeles-3,-AZ2kWMlpmYhIW_kPFMmLQ,2.5,56,Los Angeles,$,KFC
+159,KFC,kfc-los-angeles-3,-AZ2kWMlpmYhIW_kPFMmLQ,2.5,56,Los Angeles,$,KFC
+160,KFC,kfc-los-angeles-3,-AZ2kWMlpmYhIW_kPFMmLQ,2.5,56,Los Angeles,$,KFC
+161,KFC,kfc-los-angeles-34,CGHABdjlazFq-3Zd1YZYdg,2.0,74,Los Angeles,$,KFC
+162,KFC,kfc-los-angeles-34,CGHABdjlazFq-3Zd1YZYdg,2.0,74,Los Angeles,$,KFC
+163,KFC,kfc-los-angeles-34,CGHABdjlazFq-3Zd1YZYdg,2.0,74,Los Angeles,$,KFC
+164,KFC,kfc-los-angeles-55,G9AbHqXngRhVJFhB_3QnMg,3.0,76,Los Angeles,$,KFC
+165,KFC,kfc-los-angeles-55,G9AbHqXngRhVJFhB_3QnMg,3.0,76,Los Angeles,$,KFC
+166,KFC,kfc-los-angeles-55,G9AbHqXngRhVJFhB_3QnMg,3.0,76,Los Angeles,$,KFC
+167,KFC,kfc-los-angeles-29,ZZZGTxRBDBVevXKGgj7cNQ,1.5,93,Los Angeles,$,KFC
+168,KFC,kfc-los-angeles-29,ZZZGTxRBDBVevXKGgj7cNQ,1.5,93,Los Angeles,$,KFC
+169,KFC,kfc-los-angeles-29,ZZZGTxRBDBVevXKGgj7cNQ,1.5,93,Los Angeles,$,KFC
+170,KFC,kfc-los-angeles-44,5LUEQ-VZi9wG1Ko6IwNc7g,2.5,30,Los Angeles,$,KFC
+171,KFC,kfc-los-angeles-44,5LUEQ-VZi9wG1Ko6IwNc7g,2.5,30,Los Angeles,$,KFC
+172,KFC,kfc-los-angeles-44,5LUEQ-VZi9wG1Ko6IwNc7g,2.5,30,Los Angeles,$,KFC
+173,KFC,kfc-los-angeles-48,YzTLKQV3x-jeX7Lvns-_Cg,2.0,43,Los Angeles,$,KFC
+174,KFC,kfc-los-angeles-48,YzTLKQV3x-jeX7Lvns-_Cg,2.0,43,Los Angeles,$,KFC
+175,KFC,kfc-los-angeles-48,YzTLKQV3x-jeX7Lvns-_Cg,2.0,43,Los Angeles,$,KFC
+176,KFC,kfc-los-angeles-36,zSkfJFp06BHzll7lNqO76Q,1.5,32,Los Angeles,$,KFC
+177,KFC,kfc-los-angeles-36,zSkfJFp06BHzll7lNqO76Q,1.5,32,Los Angeles,$,KFC
+178,KFC,kfc-los-angeles-36,zSkfJFp06BHzll7lNqO76Q,1.5,32,Los Angeles,$,KFC
+179,KFC,kfc-los-angeles-35,mJbdkpqzyZyAfTt6__siqg,2.0,38,Los Angeles,$,KFC
+180,KFC,kfc-los-angeles-35,mJbdkpqzyZyAfTt6__siqg,2.0,38,Los Angeles,$,KFC
+181,KFC,kfc-los-angeles-35,mJbdkpqzyZyAfTt6__siqg,2.0,38,Los Angeles,$,KFC
+182,KFC,kfc-los-angeles-67,5vTOJtB9ltQ_N1u_gO-IOw,2.0,19,Los Angeles,$,KFC
+183,KFC,kfc-los-angeles-67,5vTOJtB9ltQ_N1u_gO-IOw,2.0,19,Los Angeles,$,KFC
+184,KFC,kfc-los-angeles-67,5vTOJtB9ltQ_N1u_gO-IOw,2.0,19,Los Angeles,$,KFC
+185,KFC,kfc-universal-city-5,XZY_vZSwH1xyJdurmoRcww,2.0,34,Los Angeles,$,KFC
+186,KFC,kfc-universal-city-5,XZY_vZSwH1xyJdurmoRcww,2.0,34,Los Angeles,$,KFC
+187,KFC,kfc-universal-city-5,XZY_vZSwH1xyJdurmoRcww,2.0,34,Los Angeles,$,KFC
+188,KFC,kfc-los-angeles-7,iaJQfZg9x37jkMw7LFyk8Q,2.0,84,Los Angeles,$,KFC
+189,KFC,kfc-los-angeles-7,iaJQfZg9x37jkMw7LFyk8Q,2.0,84,Los Angeles,$,KFC
+190,KFC,kfc-los-angeles-7,iaJQfZg9x37jkMw7LFyk8Q,2.0,84,Los Angeles,$,KFC
+191,KFC,kfc-los-angeles-17,pSxlc9ts2d0Gx7Z_c2Ultw,2.0,37,Los Angeles,$,KFC
+192,KFC,kfc-los-angeles-17,pSxlc9ts2d0Gx7Z_c2Ultw,2.0,37,Los Angeles,$,KFC
+193,KFC,kfc-los-angeles-17,pSxlc9ts2d0Gx7Z_c2Ultw,2.0,37,Los Angeles,$,KFC
+194,KFC,kfc-los-angeles-68,5VF2XOFarOE3Q9z8T-nrxQ,2.5,80,Los Angeles,$,KFC
+195,KFC,kfc-los-angeles-68,5VF2XOFarOE3Q9z8T-nrxQ,2.5,80,Los Angeles,$,KFC
+196,KFC,kfc-los-angeles-68,5VF2XOFarOE3Q9z8T-nrxQ,2.5,80,Los Angeles,$,KFC
+197,KFC,kfc-los-angeles-62,YYLGdVvM4zbf3TCN6sKW3A,2.0,50,Los Angeles,$,KFC
+198,KFC,kfc-los-angeles-62,YYLGdVvM4zbf3TCN6sKW3A,2.0,50,Los Angeles,$,KFC
+199,KFC,kfc-los-angeles-62,YYLGdVvM4zbf3TCN6sKW3A,2.0,50,Los Angeles,$,KFC
+200,KFC,kfc-los-angeles-16,2UIdsG3Ey4kpVq_17XOYaQ,2.0,43,Los Angeles,$,KFC
+201,KFC,kfc-los-angeles-16,2UIdsG3Ey4kpVq_17XOYaQ,2.0,43,Los Angeles,$,KFC
+202,KFC,kfc-los-angeles-16,2UIdsG3Ey4kpVq_17XOYaQ,2.0,43,Los Angeles,$,KFC
+203,KFC,kfc-los-angeles-27,HFHsqCkdzvoR0ANirfDf2A,3.0,18,Los Angeles,$,KFC
+204,KFC,kfc-los-angeles-27,HFHsqCkdzvoR0ANirfDf2A,3.0,18,Los Angeles,$,KFC
+205,KFC,kfc-los-angeles-27,HFHsqCkdzvoR0ANirfDf2A,3.0,18,Los Angeles,$,KFC
+206,KFC,kfc-glendale-8,giI7OtrqpzrZQa7eLIYYsw,1.5,122,Los Angeles,$$,KFC
+207,KFC,kfc-glendale-8,giI7OtrqpzrZQa7eLIYYsw,1.5,122,Los Angeles,$$,KFC
+208,KFC,kfc-glendale-8,giI7OtrqpzrZQa7eLIYYsw,1.5,122,Los Angeles,$$,KFC
+209,KFC,kfc-los-angeles-64,P5ZDTAXlp_lFxqQng51NLw,1.5,51,Los Angeles,$,KFC
+210,KFC,kfc-los-angeles-64,P5ZDTAXlp_lFxqQng51NLw,1.5,51,Los Angeles,$,KFC
+211,KFC,kfc-los-angeles-64,P5ZDTAXlp_lFxqQng51NLw,1.5,51,Los Angeles,$,KFC
+212,KFC,kfc-los-angeles-26,Kg4aasWjVto6DXGPkp0OiA,2.0,88,Los Angeles,$,KFC
+213,KFC,kfc-los-angeles-26,Kg4aasWjVto6DXGPkp0OiA,2.0,88,Los Angeles,$,KFC
+214,KFC,kfc-los-angeles-26,Kg4aasWjVto6DXGPkp0OiA,2.0,88,Los Angeles,$,KFC
+215,KFC,kfc-huntington-park,4VCa8m_ASouh0I55tvSI1g,2.0,58,Los Angeles,$,KFC
+216,KFC,kfc-huntington-park,4VCa8m_ASouh0I55tvSI1g,2.0,58,Los Angeles,$,KFC
+217,KFC,kfc-huntington-park,4VCa8m_ASouh0I55tvSI1g,2.0,58,Los Angeles,$,KFC
+218,KFC,kfc-burbank-2,LsuzT_TvGhcfLT3mUGxHUA,2.0,146,Los Angeles,$,KFC
+219,KFC,kfc-burbank-2,LsuzT_TvGhcfLT3mUGxHUA,2.0,146,Los Angeles,$,KFC
+220,KFC,kfc-burbank-2,LsuzT_TvGhcfLT3mUGxHUA,2.0,146,Los Angeles,$,KFC
+221,KFC,kfc-maywood,VEpcsV5CadDMUVO6CE2o9g,2.0,22,Los Angeles,$,KFC
+222,KFC,kfc-maywood,VEpcsV5CadDMUVO6CE2o9g,2.0,22,Los Angeles,$,KFC
+223,KFC,kfc-maywood,VEpcsV5CadDMUVO6CE2o9g,2.0,22,Los Angeles,$,KFC
+224,KFC,kfc-los-angeles-63,uHtnMLsxjPtwNkm1E9B2YQ,1.5,134,Los Angeles,$,KFC
+225,KFC,kfc-los-angeles-63,uHtnMLsxjPtwNkm1E9B2YQ,1.5,134,Los Angeles,$,KFC
+226,KFC,kfc-los-angeles-63,uHtnMLsxjPtwNkm1E9B2YQ,1.5,134,Los Angeles,$,KFC
+227,KFC,kfc-inglewood-5,N7On7d2jB0qsp6CXmtujjg,1.5,62,Los Angeles,$,KFC
+228,KFC,kfc-inglewood-5,N7On7d2jB0qsp6CXmtujjg,1.5,62,Los Angeles,$,KFC
+229,KFC,kfc-inglewood-5,N7On7d2jB0qsp6CXmtujjg,1.5,62,Los Angeles,$,KFC
+230,KFC,kfc-hawthorne-2,QrmmHS5r18GrrBFMZh2Y9w,2.0,88,Los Angeles,$,KFC
+231,KFC,kfc-hawthorne-2,QrmmHS5r18GrrBFMZh2Y9w,2.0,88,Los Angeles,$,KFC
+232,KFC,kfc-hawthorne-2,QrmmHS5r18GrrBFMZh2Y9w,2.0,88,Los Angeles,$,KFC
+233,KFC,kfc-north-hollywood,y4clYVClH6evLypvoW3g4Q,2.0,81,Los Angeles,$,KFC
+234,KFC,kfc-north-hollywood,y4clYVClH6evLypvoW3g4Q,2.0,81,Los Angeles,$,KFC
+235,KFC,kfc-north-hollywood,y4clYVClH6evLypvoW3g4Q,2.0,81,Los Angeles,$,KFC
+236,KFC,kfc-south-pasadena-2,mCA8AF1MslC-od9vmAe-GQ,2.0,97,Los Angeles,$,KFC
+237,KFC,kfc-south-pasadena-2,mCA8AF1MslC-od9vmAe-GQ,2.0,97,Los Angeles,$,KFC
+238,KFC,kfc-south-pasadena-2,mCA8AF1MslC-od9vmAe-GQ,2.0,97,Los Angeles,$,KFC
+239,KFC,kfc-los-angeles-56,rTJkbpGBLxiAIx4AcQ-PLA,2.0,67,Los Angeles,$,KFC
+240,KFC,kfc-los-angeles-56,rTJkbpGBLxiAIx4AcQ-PLA,2.0,67,Los Angeles,$,KFC
+241,KFC,kfc-los-angeles-56,rTJkbpGBLxiAIx4AcQ-PLA,2.0,67,Los Angeles,$,KFC
+242,KFC,kfc-van-nuys-3,wNL3eaCxfHXuPe5F0wvQKw,2.5,83,Los Angeles,$$,KFC
+243,KFC,kfc-van-nuys-3,wNL3eaCxfHXuPe5F0wvQKw,2.5,83,Los Angeles,$$,KFC
+244,KFC,kfc-van-nuys-3,wNL3eaCxfHXuPe5F0wvQKw,2.5,83,Los Angeles,$$,KFC
+245,KFC,kfc-los-angeles-46,-Ycd4L702FwPCYCo84VX0g,1.5,47,Los Angeles,$,KFC
+246,KFC,kfc-los-angeles-46,-Ycd4L702FwPCYCo84VX0g,1.5,47,Los Angeles,$,KFC
+247,KFC,kfc-los-angeles-46,-Ycd4L702FwPCYCo84VX0g,1.5,47,Los Angeles,$,KFC
+248,KFC,kfc-bell-gardens,Qp3nrRxq_E9HUyIo-xxHpQ,2.0,50,Los Angeles,$,KFC
+249,KFC,kfc-bell-gardens,Qp3nrRxq_E9HUyIo-xxHpQ,2.0,50,Los Angeles,$,KFC
+250,KFC,kfc-bell-gardens,Qp3nrRxq_E9HUyIo-xxHpQ,2.0,50,Los Angeles,$,KFC
+251,KFC,kfc-gardena-3,b_SSDjEY_41_UMjmp3k_jA,2.5,47,Los Angeles,$,KFC
+252,KFC,kfc-gardena-3,b_SSDjEY_41_UMjmp3k_jA,2.5,47,Los Angeles,$,KFC
+253,KFC,kfc-gardena-3,b_SSDjEY_41_UMjmp3k_jA,2.5,47,Los Angeles,$,KFC
+254,KFC,kfc-alhambra,nvTtA1dyPUqd5QRy5m8EvQ,2.0,100,Los Angeles,$,KFC
+255,KFC,kfc-alhambra,nvTtA1dyPUqd5QRy5m8EvQ,2.0,100,Los Angeles,$,KFC
+256,KFC,kfc-alhambra,nvTtA1dyPUqd5QRy5m8EvQ,2.0,100,Los Angeles,$,KFC
+257,KFC,kfc-north-hollywood-2,DyMvtruVefIneUaH-tZvCw,1.5,94,Los Angeles,$,KFC
+258,KFC,kfc-north-hollywood-2,DyMvtruVefIneUaH-tZvCw,1.5,94,Los Angeles,$,KFC
+259,KFC,kfc-north-hollywood-2,DyMvtruVefIneUaH-tZvCw,1.5,94,Los Angeles,$,KFC
+260,KFC,kfc-lynwood,5QfqejieOXczapIanQnCRA,1.5,122,Los Angeles,$,KFC
+261,KFC,kfc-lynwood,5QfqejieOXczapIanQnCRA,1.5,122,Los Angeles,$,KFC
+262,KFC,kfc-lynwood,5QfqejieOXczapIanQnCRA,1.5,122,Los Angeles,$,KFC
+263,KFC,kfc-compton,LlKorY2GDmNV7zLym8YSHA,1.5,32,Los Angeles,$,KFC
+264,KFC,kfc-compton,LlKorY2GDmNV7zLym8YSHA,1.5,32,Los Angeles,$,KFC
+265,KFC,kfc-compton,LlKorY2GDmNV7zLym8YSHA,1.5,32,Los Angeles,$,KFC
+266,KFC,kfc-torrance-6,oNy2nRONirrldjZzhHVYkg,2.0,110,Los Angeles,$,KFC
+267,KFC,kfc-torrance-6,oNy2nRONirrldjZzhHVYkg,2.0,110,Los Angeles,$,KFC
+268,KFC,kfc-torrance-6,oNy2nRONirrldjZzhHVYkg,2.0,110,Los Angeles,$,KFC
+269,KFC,kfc-pasadena-5,sJ6gALcVPWc0EfwGJDS52A,2.0,70,Los Angeles,$,KFC
+270,KFC,kfc-pasadena-5,sJ6gALcVPWc0EfwGJDS52A,2.0,70,Los Angeles,$,KFC
+271,KFC,kfc-pasadena-5,sJ6gALcVPWc0EfwGJDS52A,2.0,70,Los Angeles,$,KFC
+272,KFC,kfc-pasadena-12,kbtilOTDkPZ-EF_h-W_DxQ,2.5,39,Los Angeles,$,KFC
+273,KFC,kfc-pasadena-12,kbtilOTDkPZ-EF_h-W_DxQ,2.5,39,Los Angeles,$,KFC
+274,KFC,kfc-pasadena-12,kbtilOTDkPZ-EF_h-W_DxQ,2.5,39,Los Angeles,$,KFC
+275,KFC,kfc-montebello,dT-bwBlM5xvLdXzRWBvUgQ,2.5,58,Los Angeles,$,KFC
+276,KFC,kfc-montebello,dT-bwBlM5xvLdXzRWBvUgQ,2.5,58,Los Angeles,$,KFC
+277,KFC,kfc-montebello,dT-bwBlM5xvLdXzRWBvUgQ,2.5,58,Los Angeles,$,KFC
+278,KFC,kfc-downey,r6dLrusaX0H0qvXxjW-hIg,2.0,67,Los Angeles,$,KFC
+279,KFC,kfc-downey,r6dLrusaX0H0qvXxjW-hIg,2.0,67,Los Angeles,$,KFC
+280,KFC,kfc-downey,r6dLrusaX0H0qvXxjW-hIg,2.0,67,Los Angeles,$,KFC
+281,KFC,kfc-compton-2,Kqy-0i2ayGwACqmt5nRCrA,1.5,61,Los Angeles,$,KFC
+282,KFC,kfc-compton-2,Kqy-0i2ayGwACqmt5nRCrA,1.5,61,Los Angeles,$,KFC
+283,KFC,kfc-compton-2,Kqy-0i2ayGwACqmt5nRCrA,1.5,61,Los Angeles,$,KFC
+284,KFC,kfc-san-gabriel-2,09YpuQXIr_nWGeoiM5Oa1A,2.0,92,Los Angeles,$,KFC
+285,KFC,kfc-san-gabriel-2,09YpuQXIr_nWGeoiM5Oa1A,2.0,92,Los Angeles,$,KFC
+286,KFC,kfc-san-gabriel-2,09YpuQXIr_nWGeoiM5Oa1A,2.0,92,Los Angeles,$,KFC
+287,KFC,kfc-pico-rivera-4,-IFN8DaIm-fRSf8S21ihSw,2.0,26,Los Angeles,$,KFC
+288,KFC,kfc-pico-rivera-4,-IFN8DaIm-fRSf8S21ihSw,2.0,26,Los Angeles,$,KFC
+289,KFC,kfc-pico-rivera-4,-IFN8DaIm-fRSf8S21ihSw,2.0,26,Los Angeles,$,KFC
+290,KFC,kfc-carson,FfX3Zo2r8bPpBMUFIH1zDA,2.0,51,Los Angeles,$,KFC
+291,KFC,kfc-carson,FfX3Zo2r8bPpBMUFIH1zDA,2.0,51,Los Angeles,$,KFC
+292,KFC,kfc-carson,FfX3Zo2r8bPpBMUFIH1zDA,2.0,51,Los Angeles,$,KFC
+293,KFC,kfc-sepulveda,h1EsQyNImfPK-_BLi9i5NQ,2.0,40,Los Angeles,$,KFC
+294,KFC,kfc-sepulveda,h1EsQyNImfPK-_BLi9i5NQ,2.0,40,Los Angeles,$,KFC
+295,KFC,kfc-sepulveda,h1EsQyNImfPK-_BLi9i5NQ,2.0,40,Los Angeles,$,KFC
+296,KFC,kfc-pasadena-9,9b4syB0zU9l_3IoFVeA9Lw,2.0,57,Los Angeles,$,KFC
+297,KFC,kfc-pasadena-9,9b4syB0zU9l_3IoFVeA9Lw,2.0,57,Los Angeles,$,KFC
+298,KFC,kfc-pasadena-9,9b4syB0zU9l_3IoFVeA9Lw,2.0,57,Los Angeles,$,KFC
+299,KFC,kfc-paramount-4,ecD4sCK8N5EZ6dtQl6LCnw,2.5,3,Los Angeles,,KFC
+300,KFC,kfc-paramount-4,ecD4sCK8N5EZ6dtQl6LCnw,2.5,3,Los Angeles,,KFC
+301,KFC,kfc-paramount-4,ecD4sCK8N5EZ6dtQl6LCnw,2.5,3,Los Angeles,,KFC
+302,KFC,kfc-houston-74,ppjgQvV8k2XKbQrPK5zwTA,1.5,26,Houston,$,KFC
+303,KFC,kfc-houston-74,ppjgQvV8k2XKbQrPK5zwTA,1.5,26,Houston,$,KFC
+304,KFC,kfc-houston-74,ppjgQvV8k2XKbQrPK5zwTA,1.5,26,Houston,$,KFC
+305,KFC,kfc-houston-10,fBj5jw6GzPgE6Q3DV6idJQ,2.0,28,Houston,$,KFC
+306,KFC,kfc-houston-10,fBj5jw6GzPgE6Q3DV6idJQ,2.0,28,Houston,$,KFC
+307,KFC,kfc-houston-10,fBj5jw6GzPgE6Q3DV6idJQ,2.0,28,Houston,$,KFC
+308,KFC,kfc-houston-69,N4U19hYGBGUHzX4Up99Dtw,2.0,49,Houston,$,KFC
+309,KFC,kfc-houston-69,N4U19hYGBGUHzX4Up99Dtw,2.0,49,Houston,$,KFC
+310,KFC,kfc-houston-69,N4U19hYGBGUHzX4Up99Dtw,2.0,49,Houston,$,KFC
+311,KFC,kfc-houston-78,eFu3N7zF7JsJhE7nLb0ZzA,1.5,16,Houston,$,KFC
+312,KFC,kfc-houston-78,eFu3N7zF7JsJhE7nLb0ZzA,1.5,16,Houston,$,KFC
+313,KFC,kfc-houston-78,eFu3N7zF7JsJhE7nLb0ZzA,1.5,16,Houston,$,KFC
+314,KFC,kfc-houston-83,_eNmPtrRSUQg-0wP0OtgJg,1.5,29,Houston,$,KFC
+315,KFC,kfc-houston-83,_eNmPtrRSUQg-0wP0OtgJg,1.5,29,Houston,$,KFC
+316,KFC,kfc-houston-83,_eNmPtrRSUQg-0wP0OtgJg,1.5,29,Houston,$,KFC
+317,KFC,kfc-houston-35,DvcW0boDBDpeX33hOq5maQ,1.5,30,Houston,$,KFC
+318,KFC,kfc-houston-35,DvcW0boDBDpeX33hOq5maQ,1.5,30,Houston,$,KFC
+319,KFC,kfc-houston-35,DvcW0boDBDpeX33hOq5maQ,1.5,30,Houston,$,KFC
+320,KFC,kfc-houston-11,qCH8ixUt4PzsiRzBzwroBg,2.5,17,Houston,$,KFC
+321,KFC,kfc-houston-11,qCH8ixUt4PzsiRzBzwroBg,2.5,17,Houston,$,KFC
+322,KFC,kfc-houston-11,qCH8ixUt4PzsiRzBzwroBg,2.5,17,Houston,$,KFC
+323,KFC,kfc-houston-59,FbYdpxvvqylCXiqaXn1SjQ,1.5,23,Houston,$,KFC
+324,KFC,kfc-houston-59,FbYdpxvvqylCXiqaXn1SjQ,1.5,23,Houston,$,KFC
+325,KFC,kfc-houston-59,FbYdpxvvqylCXiqaXn1SjQ,1.5,23,Houston,$,KFC
+326,KFC,kfc-houston-20,H-_TWZ9WdGSyqLI_TalMZg,1.5,34,Houston,$,KFC
+327,KFC,kfc-houston-20,H-_TWZ9WdGSyqLI_TalMZg,1.5,34,Houston,$,KFC
+328,KFC,kfc-houston-20,H-_TWZ9WdGSyqLI_TalMZg,1.5,34,Houston,$,KFC
+329,KFC,kfc-houston-48,4uiilonKL8bjLp8vphUa0A,1.5,68,Houston,$,KFC
+330,KFC,kfc-houston-48,4uiilonKL8bjLp8vphUa0A,1.5,68,Houston,$,KFC
+331,KFC,kfc-houston-48,4uiilonKL8bjLp8vphUa0A,1.5,68,Houston,$,KFC
+332,KFC,kfc-houston-36,ZFwo4NS3txiUbwsvB-6EcQ,1.5,11,Houston,$,KFC
+333,KFC,kfc-houston-36,ZFwo4NS3txiUbwsvB-6EcQ,1.5,11,Houston,$,KFC
+334,KFC,kfc-houston-36,ZFwo4NS3txiUbwsvB-6EcQ,1.5,11,Houston,$,KFC
+335,KFC,kfc-houston-51,mz_rSazbs_hOJ_VcPTLJug,1.0,26,Houston,$,KFC
+336,KFC,kfc-houston-51,mz_rSazbs_hOJ_VcPTLJug,1.0,26,Houston,$,KFC
+337,KFC,kfc-houston-51,mz_rSazbs_hOJ_VcPTLJug,1.0,26,Houston,$,KFC
+338,KFC,kfc-houston-79,amVt0he3X9PTExDY8MwGow,2.0,13,Houston,$,KFC
+339,KFC,kfc-houston-79,amVt0he3X9PTExDY8MwGow,2.0,13,Houston,$,KFC
+340,KFC,kfc-houston-79,amVt0he3X9PTExDY8MwGow,2.0,13,Houston,$,KFC
+341,KFC,kfc-houston-81,8ktOflBKbTwLVWQWS7Ss-A,1.0,9,Houston,$,KFC
+342,KFC,kfc-houston-81,8ktOflBKbTwLVWQWS7Ss-A,1.0,9,Houston,$,KFC
+343,KFC,kfc-houston-81,8ktOflBKbTwLVWQWS7Ss-A,1.0,9,Houston,$,KFC
+344,KFC,kfc-houston-34,Upl2E_NtOBR53e8pJPvySA,2.0,37,Houston,$,KFC
+345,KFC,kfc-houston-34,Upl2E_NtOBR53e8pJPvySA,2.0,37,Houston,$,KFC
+346,KFC,kfc-houston-34,Upl2E_NtOBR53e8pJPvySA,2.0,37,Houston,$,KFC
+347,KFC,kfc-houston-30,ii_kUcMxy_jkrzMpICu8Mg,1.5,12,Houston,$,KFC
+348,KFC,kfc-houston-30,ii_kUcMxy_jkrzMpICu8Mg,1.5,12,Houston,$,KFC
+349,KFC,kfc-houston-30,ii_kUcMxy_jkrzMpICu8Mg,1.5,12,Houston,$,KFC
+350,KFC,kfc-houston-76,kspkj-W4K0XDcQL1zTMTkA,1.0,24,Houston,$,KFC
+351,KFC,kfc-houston-76,kspkj-W4K0XDcQL1zTMTkA,1.0,24,Houston,$,KFC
+352,KFC,kfc-houston-76,kspkj-W4K0XDcQL1zTMTkA,1.0,24,Houston,$,KFC
+353,KFC,kfc-houston-73,xFKNBwoJobIA3xURwkEYQQ,2.0,16,Houston,$,KFC
+354,KFC,kfc-houston-73,xFKNBwoJobIA3xURwkEYQQ,2.0,16,Houston,$,KFC
+355,KFC,kfc-houston-73,xFKNBwoJobIA3xURwkEYQQ,2.0,16,Houston,$,KFC
+356,KFC,kfc-houston-80,9deOPUpVOnrNe2abXpmEeQ,1.5,33,Houston,$,KFC
+357,KFC,kfc-houston-80,9deOPUpVOnrNe2abXpmEeQ,1.5,33,Houston,$,KFC
+358,KFC,kfc-houston-80,9deOPUpVOnrNe2abXpmEeQ,1.5,33,Houston,$,KFC
+359,KFC,kfc-houston-29,iP4K5h-r73L3Rn60OYIjcg,1.5,20,Houston,$,KFC
+360,KFC,kfc-houston-29,iP4K5h-r73L3Rn60OYIjcg,1.5,20,Houston,$,KFC
+361,KFC,kfc-houston-29,iP4K5h-r73L3Rn60OYIjcg,1.5,20,Houston,$,KFC
+362,KFC,kfc-stafford-5,J6F9E2BZjjDrRa_Zl5htYw,1.5,53,Houston,$,KFC
+363,KFC,kfc-stafford-5,J6F9E2BZjjDrRa_Zl5htYw,1.5,53,Houston,$,KFC
+364,KFC,kfc-stafford-5,J6F9E2BZjjDrRa_Zl5htYw,1.5,53,Houston,$,KFC
+365,KFC,kfc-houston-61,699O2uyzJQG4zz6y_Dk1Cw,1.0,24,Houston,$,KFC
+366,KFC,kfc-houston-61,699O2uyzJQG4zz6y_Dk1Cw,1.0,24,Houston,$,KFC
+367,KFC,kfc-houston-61,699O2uyzJQG4zz6y_Dk1Cw,1.0,24,Houston,$,KFC
+368,KFC,kfc-houston-54,bM9N2P8xgF2VpExK73s3HQ,1.5,37,Houston,$,KFC
+369,KFC,kfc-houston-54,bM9N2P8xgF2VpExK73s3HQ,1.5,37,Houston,$,KFC
+370,KFC,kfc-houston-54,bM9N2P8xgF2VpExK73s3HQ,1.5,37,Houston,$,KFC
+371,KFC,kfc-houston-82,0Y6Mij7y4z49wXiZAa_6hA,1.5,8,Houston,$,KFC
+372,KFC,kfc-houston-82,0Y6Mij7y4z49wXiZAa_6hA,1.5,8,Houston,$,KFC
+373,KFC,kfc-houston-82,0Y6Mij7y4z49wXiZAa_6hA,1.5,8,Houston,$,KFC
+374,KFC,kfc-missouri-city,5eS48y20LpMa3IM9WnT7YA,1.5,16,Houston,$,KFC
+375,KFC,kfc-missouri-city,5eS48y20LpMa3IM9WnT7YA,1.5,16,Houston,$,KFC
+376,KFC,kfc-missouri-city,5eS48y20LpMa3IM9WnT7YA,1.5,16,Houston,$,KFC
+377,KFC,kfc-houston-58,zgspE4DLRWEVZ_0iMs07Lg,1.5,49,Houston,$,KFC
+378,KFC,kfc-houston-58,zgspE4DLRWEVZ_0iMs07Lg,1.5,49,Houston,$,KFC
+379,KFC,kfc-houston-58,zgspE4DLRWEVZ_0iMs07Lg,1.5,49,Houston,$,KFC
+380,KFC,kfc-houston-41,qeUkIMjtU0fLVVbIPtu9uw,1.5,12,Houston,$,KFC
+381,KFC,kfc-houston-41,qeUkIMjtU0fLVVbIPtu9uw,1.5,12,Houston,$,KFC
+382,KFC,kfc-houston-41,qeUkIMjtU0fLVVbIPtu9uw,1.5,12,Houston,$,KFC
+383,KFC,kfc-houston-75,HVWVIgHa4QBSEbbWkcOQDQ,2.0,10,Houston,$,KFC
+384,KFC,kfc-houston-75,HVWVIgHa4QBSEbbWkcOQDQ,2.0,10,Houston,$,KFC
+385,KFC,kfc-houston-75,HVWVIgHa4QBSEbbWkcOQDQ,2.0,10,Houston,$,KFC
+386,KFC,kfc-houston-17,SOm-OD_n7Ll24fA_rejKnw,1.5,43,Houston,$,KFC
+387,KFC,kfc-houston-17,SOm-OD_n7Ll24fA_rejKnw,1.5,43,Houston,$,KFC
+388,KFC,kfc-houston-17,SOm-OD_n7Ll24fA_rejKnw,1.5,43,Houston,$,KFC
+389,KFC,kfc-pasadena-8,5Ib1ueFuFs725RdX3Tij6w,1.5,11,Houston,$,KFC
+390,KFC,kfc-pasadena-8,5Ib1ueFuFs725RdX3Tij6w,1.5,11,Houston,$,KFC
+391,KFC,kfc-pasadena-8,5Ib1ueFuFs725RdX3Tij6w,1.5,11,Houston,$,KFC
+392,KFC,kfc-sugar-land,CWr982askJwGmNYUD8-zwg,2.0,40,Houston,$,KFC
+393,KFC,kfc-sugar-land,CWr982askJwGmNYUD8-zwg,2.0,40,Houston,$,KFC
+394,KFC,kfc-sugar-land,CWr982askJwGmNYUD8-zwg,2.0,40,Houston,$,KFC
+395,KFC,kfc-houston-44,TLLZsQvzuQVAq7q445TGVQ,2.5,10,Houston,$,KFC
+396,KFC,kfc-houston-44,TLLZsQvzuQVAq7q445TGVQ,2.5,10,Houston,$,KFC
+397,KFC,kfc-houston-44,TLLZsQvzuQVAq7q445TGVQ,2.5,10,Houston,$,KFC
+398,KFC,kfc-pearland-6,1h7k5qt9-g1XfpodPvzzag,1.5,49,Houston,$,KFC
+399,KFC,kfc-pearland-6,1h7k5qt9-g1XfpodPvzzag,1.5,49,Houston,$,KFC
+400,KFC,kfc-pearland-6,1h7k5qt9-g1XfpodPvzzag,1.5,49,Houston,$,KFC
+401,KFC,kfc-houston-67,-TP8dGn5zFBXAJZi70yrKQ,1.5,39,Houston,$,KFC
+402,KFC,kfc-houston-67,-TP8dGn5zFBXAJZi70yrKQ,1.5,39,Houston,$,KFC
+403,KFC,kfc-houston-67,-TP8dGn5zFBXAJZi70yrKQ,1.5,39,Houston,$,KFC
+404,KFC,kfc-houston-23,pdGGsami_E6MYj8b_51CWQ,1.5,20,Houston,$,KFC
+405,KFC,kfc-houston-23,pdGGsami_E6MYj8b_51CWQ,1.5,20,Houston,$,KFC
+406,KFC,kfc-houston-23,pdGGsami_E6MYj8b_51CWQ,1.5,20,Houston,$,KFC
+407,KFC,kfc-pearland-5,6DXqfvgXGD-v27J3xTYqYA,2.0,15,Houston,,KFC
+408,KFC,kfc-pearland-5,6DXqfvgXGD-v27J3xTYqYA,2.0,15,Houston,,KFC
+409,KFC,kfc-pearland-5,6DXqfvgXGD-v27J3xTYqYA,2.0,15,Houston,,KFC
+410,KFC,kfc-houston-18,ev3u2uZmI_DmXaLXnhZo3Q,1.5,45,Houston,$,KFC
+411,KFC,kfc-houston-18,ev3u2uZmI_DmXaLXnhZo3Q,1.5,45,Houston,$,KFC
+412,KFC,kfc-houston-18,ev3u2uZmI_DmXaLXnhZo3Q,1.5,45,Houston,$,KFC
+413,KFC,kfc-houston-56,dcu1ePMM1iGTkis6A0yCBg,2.5,14,Houston,$,KFC
+414,KFC,kfc-houston-56,dcu1ePMM1iGTkis6A0yCBg,2.5,14,Houston,$,KFC
+415,KFC,kfc-houston-56,dcu1ePMM1iGTkis6A0yCBg,2.5,14,Houston,$,KFC
+416,KFC,kfc-humble,jT9z3tcckRUfTWBz8uLxxQ,1.5,20,Houston,$,KFC
+417,KFC,kfc-humble,jT9z3tcckRUfTWBz8uLxxQ,1.5,20,Houston,$,KFC
+418,KFC,kfc-humble,jT9z3tcckRUfTWBz8uLxxQ,1.5,20,Houston,$,KFC
+419,KFC,kfc-katy-2,aamgNiM5MgTCdSP7o5vceQ,1.5,32,Houston,$,KFC
+420,KFC,kfc-katy-2,aamgNiM5MgTCdSP7o5vceQ,1.5,32,Houston,$,KFC
+421,KFC,kfc-katy-2,aamgNiM5MgTCdSP7o5vceQ,1.5,32,Houston,$,KFC
+422,KFC,kfc-sugar-land-4,UDDqq9UtlRNYMEKkXWgFaA,1.5,31,Houston,$,KFC
+423,KFC,kfc-sugar-land-4,UDDqq9UtlRNYMEKkXWgFaA,1.5,31,Houston,$,KFC
+424,KFC,kfc-sugar-land-4,UDDqq9UtlRNYMEKkXWgFaA,1.5,31,Houston,$,KFC
+425,KFC,kfc-cypress-6,kqst1s2AS8UwHP5YEDCx0Q,2.0,10,Houston,$,KFC
+426,KFC,kfc-cypress-6,kqst1s2AS8UwHP5YEDCx0Q,2.0,10,Houston,$,KFC
+427,KFC,kfc-cypress-6,kqst1s2AS8UwHP5YEDCx0Q,2.0,10,Houston,$,KFC
+428,KFC,kfc-houston-43,yOFAOEEGrG0R2gHQnukEqA,1.5,27,Houston,$,KFC
+429,KFC,kfc-houston-43,yOFAOEEGrG0R2gHQnukEqA,1.5,27,Houston,$,KFC
+430,KFC,kfc-houston-43,yOFAOEEGrG0R2gHQnukEqA,1.5,27,Houston,$,KFC
+431,KFC,kfc-humble-6,limKDUROGAZdDQ-Huzg3xQ,1.0,42,Houston,$,KFC
+432,KFC,kfc-humble-6,limKDUROGAZdDQ-Huzg3xQ,1.0,42,Houston,$,KFC
+433,KFC,kfc-humble-6,limKDUROGAZdDQ-Huzg3xQ,1.0,42,Houston,$,KFC
+434,KFC,kfc-pasadena-11,jglR3Zaq3kz6ND7kDW91tw,2.0,14,Houston,$,KFC
+435,KFC,kfc-pasadena-11,jglR3Zaq3kz6ND7kDW91tw,2.0,14,Houston,$,KFC
+436,KFC,kfc-pasadena-11,jglR3Zaq3kz6ND7kDW91tw,2.0,14,Houston,$,KFC
+437,KFC,kfc-cypress-3,uUZBTV7sX8lrVt6BzEElkw,3.5,35,Houston,$,KFC
+438,KFC,kfc-cypress-3,uUZBTV7sX8lrVt6BzEElkw,3.5,35,Houston,$,KFC
+439,KFC,kfc-cypress-3,uUZBTV7sX8lrVt6BzEElkw,3.5,35,Houston,$,KFC
+440,KFC,kfc-spring-6,mtL2w4rmSPiR4SdI32oqVQ,1.5,40,Houston,$,KFC
+441,KFC,kfc-spring-6,mtL2w4rmSPiR4SdI32oqVQ,1.5,40,Houston,$,KFC
+442,KFC,kfc-spring-6,mtL2w4rmSPiR4SdI32oqVQ,1.5,40,Houston,$,KFC
+443,KFC,kfc-pasadena-4,yAMhTh0dCz129scWvN5Wig,2.5,12,Houston,$,KFC
+444,KFC,kfc-pasadena-4,yAMhTh0dCz129scWvN5Wig,2.5,12,Houston,$,KFC
+445,KFC,kfc-pasadena-4,yAMhTh0dCz129scWvN5Wig,2.5,12,Houston,$,KFC
+446,KFC,kfc-kingwood,aIOR9DvzmwIfp4T_pAMskQ,1.5,53,Houston,$,KFC
+447,KFC,kfc-kingwood,aIOR9DvzmwIfp4T_pAMskQ,1.5,53,Houston,$,KFC
+448,KFC,kfc-kingwood,aIOR9DvzmwIfp4T_pAMskQ,1.5,53,Houston,$,KFC
+449,KFC,kfc-rosenberg-3,C2QJ3qhQmnF384pWOM1MmA,2.0,17,Houston,$,KFC
+450,KFC,kfc-rosenberg-3,C2QJ3qhQmnF384pWOM1MmA,2.0,17,Houston,$,KFC
+451,KFC,kfc-rosenberg-3,C2QJ3qhQmnF384pWOM1MmA,2.0,17,Houston,$,KFC
+452,Dave's Hot Chicken,daves-hot-chicken-los-angeles,6i7KnRylm4bhPIApDFSVCg,4.5,3719,Los Angeles,$$,Dave's Hot Chicken
+453,Daves Hot Chicken,daves-hot-chicken-los-angeles-9,iz9FDLvrjgleo_cGm2w94A,4.0,364,Los Angeles,$$,Dave's Hot Chicken
+454,Dave's Hot Chicken,daves-hot-chicken-los-angeles-4,aVOeM9zGvIcyKuJWEMxc5w,4.0,617,Los Angeles,$$,Dave's Hot Chicken
+455,Dave's Hot Chicken,daves-hot-chicken-torrance,9NUfpE2Z887SuScTpXhxAw,4.0,119,Los Angeles,$$,Dave's Hot Chicken
+456,Dave's Hot Chicken,daves-hot-chicken-los-angeles-14,nlgB9Vf6rsfIENyYMur-kw,3.5,40,Los Angeles,$$,Dave's Hot Chicken
+457,Dave's Hot Chicken,daves-hot-chicken-los-angeles-8,M8eJ_AYQRAYxRTPyD5RpKw,3.0,139,Los Angeles,$$,Dave's Hot Chicken
+458,Dave's Hot Chicken,daves-hot-chicken-culver-city,W-niPz8qzPed19XBk00ZLw,4.0,333,Los Angeles,$$,Dave's Hot Chicken
+459,Daves Hot Chicken,daves-hot-chicken-rosemead,ujayuAVzuhHBgpo_jkYUuA,4.0,345,Los Angeles,$$,Dave's Hot Chicken
+460,Dave's Hot Chicken,daves-hot-chicken-northridge,I1QzEXlhQjTVUzILZayWxg,3.5,475,Los Angeles,$$,Dave's Hot Chicken
+461,Dave's Hot Chicken,daves-hot-chicken-los-angeles-12,6wJ6nlO4bf6VC_W4V-opgA,4.0,989,Los Angeles,$$,Dave's Hot Chicken
+462,Dave's Hot Chicken,daves-hot-chicken-glendale-3,krs94qCUqsxEey1rFXyAhg,4.0,415,Los Angeles,$$,Dave's Hot Chicken
+463,Dave's Hot Chicken,daves-hot-chicken-lakewood,r-APvvvh6ttm1XVMuVnbUg,4.0,454,Los Angeles,$$,Dave's Hot Chicken
+464,Dave's Hot Chicken,daves-hot-chicken-burbank-2,PlWby-vhUpWYEFgJ1325Ug,4.0,41,Los Angeles,$,Dave's Hot Chicken
+465,Dave's Hot Chicken,daves-hot-chicken-los-angeles-7,A60m8Kb9ZlRrx0KAJfiKMg,4.0,206,Los Angeles,$$,Dave's Hot Chicken
+466,Dave's Hot Chicken at Kitchen United MIX,daves-hot-chicken-at-kitchen-united-mix-pasadena,D00S67mXI8SDcSk-rLOQgQ,3.0,29,Los Angeles,,Dave's Hot Chicken
+467,Dave's Hot Chicken,daves-hot-chicken-long-beach,bjxk9wDfczj_CjH4wv5m9A,3.5,47,Los Angeles,$$,Dave's Hot Chicken
+468,Dave's Hot Chicken,daves-hot-chicken-monrovia,9IILHhAa1KPFUXr7o-F0Eg,4.0,101,Los Angeles,$$,Dave's Hot Chicken
+469,Dave's Hot Chicken,daves-hot-chicken-artesia-2,WjVpL0Ial-ojo6HI9uZX5g,3.5,110,Los Angeles,$$,Dave's Hot Chicken
+470,Dave's Hot Chicken,daves-hot-chicken-seal-beach-2,E4og6Ejk46Dzt_8hqxKDlw,4.5,112,Los Angeles,$$,Dave's Hot Chicken
+471,Dave's Hot Chicken,daves-hot-chicken-houston-4,aYvFekeHS2j2sz-wuk6lag,4.0,224,Houston,$$,Dave's Hot Chicken
+472,Dave's Hot Chicken,daves-hot-chicken-houston-5,DYkzw1q7UtfpwtxKZoRzKQ,3.5,107,Houston,$$,Dave's Hot Chicken
+473,Daves Hot Chicken,daves-hot-chicken-houston-2,hmPlBCy8-jxzATve4SsS2g,4.0,161,Houston,$$,Dave's Hot Chicken
+474,Dave's Hot Chicken,daves-hot-chicken-webster,IdhSsxuOHuSxZ0FXFYnxjg,2.5,11,Houston,,Dave's Hot Chicken
+475,Dave's Hot Chicken,daves-hot-chicken-houston-6,QYEvGh1t7U3lEijEhPtIkA,2.0,49,Houston,$$,Dave's Hot Chicken
+476,Dave's Hot Chicken,daves-hot-chicken-missouri-city,waguhjeCnyyIv_5PkBDcIQ,4.0,150,Houston,$$,Dave's Hot Chicken
+477,Dave's Hot Chicken,daves-hot-chicken-spring-2,2dX_1ermpc-AXTdd-fqejg,3.0,88,Houston,$$,Dave's Hot Chicken
+478,Dave's Hot Chicken,daves-hot-chicken-new-caney-2,RKK-F67TWpheZWOu3dGmxA,4.0,53,Houston,$$,Dave's Hot Chicken
