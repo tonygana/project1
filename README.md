@@ -27,3 +27,8 @@ In this project, we are evaluating customer service ratings for Chick-fil-A by u
       - To compete more effectively with its competitors, Chick-fil-A needs to focus on prioritizing improving customer service.
       - These findings are visually presented in bar graphs to facilitate a clearer comparison.
       
+#### Conclusion
+      - In summary, our analysis of Chick-Fil-A's performance in Los Angeles and Houston uncovered some key insights. The CEO's plan for a reputation incentive project aims to boost franchisee performance based on ratings and local influence.
+      - We found room for Chick-Fil-A to improve, especially when compared to top performers like Dave’s Hot Chicken. The exciting part? Even lower-rated spots are seeing improvements, showing a changing landscape.
+      - Understanding what customers want in each area is key. Chick-Fil-A can focus on enhancing customer service and product quality, taking cues from successful competitors.
+      - Overall, our analysis shows Chick-Fil-A has a real shot at enhancing its image and succeeding in the reputation incentive project. These insights pave the way for strategies that could drive franchisee success and continued growth.
