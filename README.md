@@ -1,5 +1,5 @@
 # Project 1
-## Chick-fil-A Customer Service Performance
+## Chick-fil-A Customer Satisfaction Performance
 
 In this project, we are evaluating customer service ratings for Chick-fil-A by utilizing the Geoapify and Yelp API. We aim to assess its performance in comparison to other chicken fast-food restaurants, with the goal of identifying potential areas for improvement.
 
